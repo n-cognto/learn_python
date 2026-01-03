@@ -4,7 +4,7 @@
 
 Welcome to the most complete Python learning experience available - enhanced with advanced topics, comprehensive operator coverage, and professional development patterns. This roadmap now covers **95%** of modern Python requirements!
 
-##**NEW for 2026: Production-Ready Learning!**
+## **NEW for 2026: Production-Ready Learning!**
 
 This repository has been **completely modernized** with industry-standard practices:
 
@@ -17,7 +17,7 @@ This repository has been **completely modernized** with industry-standard practi
  **Type Hints** - Modern Python 3.11+ type annotations  
  **Professional Structure** - Production-ready code organization
 
-** Quick Start:**
+**Quick Start:**
 ```bash
 # Clone and setup
 git clone https://github.com/n-cognto/learn_python/
@@ -66,11 +66,11 @@ By the end of this enhanced 33-day journey, you will:
 ##  What's New in 2025
 
 ### **Enhanced Coverage**
-- ** Complete Operator Coverage**: Bitwise, identity, and membership operators
-- ** Advanced Iterator Patterns**: Custom iterators and generator functions
-- ** Professional Decorators**: Function enhancement and design patterns
-- ** Concurrency & Threading**: Modern async/await and parallel processing
-- ** Python Internals**: Memory management and performance optimization
+- **Complete Operator Coverage**: Bitwise, identity, and membership operators
+- **Advanced Iterator Patterns**: Custom iterators and generator functions
+- **Professional Decorators**: Function enhancement and design patterns
+- **Concurrency & Threading**: Modern async/await and parallel processing
+- **Python Internals**: Memory management and performance optimization
 
 ###  **Industry Alignment**
 This roadmap now covers **95% of the Python Roadmap 2025 standards**, including:
