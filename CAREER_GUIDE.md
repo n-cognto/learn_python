@@ -1,8 +1,8 @@
-# 🚀 Python Career Roadmap 2026
+# Python Career Roadmap 2026
 
 A comprehensive guide to building a successful Python career in 2026 and beyond.
 
-## 📊 Career Paths Overview
+## Career Paths Overview
 
 Python developers can pursue various career paths:
 
@@ -15,17 +15,17 @@ Python developers can pursue various career paths:
 
 ---
 
-## 🎯 Skill Progression Timeline
+## Skill Progression Timeline
 
-### 📅 Weeks 1-4: Foundation (Entry Level)
+### Weeks 1-4: Foundation (Entry Level)
 
 **Core Skills:**
-- ✅ Python fundamentals (variables, data types, control flow)
-- ✅ Functions and modules
-- ✅ Object-Oriented Programming basics
-- ✅ Error handling and debugging
-- ✅ File I/O operations
-- ✅ Basic data structures (lists, dicts, sets)
+- Python fundamentals (variables, data types, control flow)
+- Functions and modules
+- Object-Oriented Programming basics
+- Error handling and debugging
+- File I/O operations
+- Basic data structures (lists, dicts, sets)
 
 **Projects to Build:**
 - Calculator application
@@ -44,16 +44,16 @@ Can write basic Python scripts and understand fundamental programming concepts.
 
 ---
 
-### 📅 Weeks 5-8: Intermediate Skills
+### Weeks 5-8: Intermediate Skills
 
 **Core Skills:**
-- ✅ Advanced OOP (inheritance, polymorphism, composition)
-- ✅ Decorators and context managers
-- ✅ Generators and iterators
-- ✅ Type hints and static typing
-- ✅ Testing with pytest
-- ✅ Virtual environments and package management
-- ✅ Git and version control
+- Advanced OOP (inheritance, polymorphism, composition)
+- Decorators and context managers
+- Generators and iterators
+- Type hints and static typing
+- Testing with pytest
+- Virtual environments and package management
+- Git and version control
 
 **Frameworks to Learn:**
 - **Web Development:** FastAPI or Flask
@@ -77,34 +77,34 @@ Can build complete applications with proper structure, testing, and documentatio
 
 ---
 
-### 📅 Weeks 9-12: Advanced Skills
+### Weeks 9-12: Advanced Skills
 
 **Core Skills:**
-- ✅ Async/await and concurrency
-- ✅ Design patterns
-- ✅ Performance optimization
-- ✅ Security best practices
-- ✅ Docker and containerization
-- ✅ CI/CD pipelines
-- ✅ System design basics
+- Async/await and concurrency
+- Design patterns
+- Performance optimization
+- Security best practices
+- Docker and containerization
+- CI/CD pipelines
+- System design basics
 
 **Specialized Tracks:**
 
-#### 🌐 Backend Development
+#### Backend Development
 - FastAPI/Django advanced features
 - Database optimization (PostgreSQL, Redis)
 - Microservices architecture
 - Message queues (RabbitMQ, Kafka)
 - API design and documentation
 
-#### 📊 Data Science
+#### Data Science
 - NumPy, Pandas, Matplotlib
 - Scikit-learn for ML
 - Jupyter notebooks
 - Data visualization
 - Statistical analysis
 
-#### ⚙️ DevOps
+#### DevOps
 - Infrastructure as Code (Terraform)
 - CI/CD (GitHub Actions, Jenkins)
 - Container orchestration (Kubernetes)
@@ -130,9 +130,9 @@ Ready for mid-level positions with specialized expertise in chosen track.
 
 ---
 
-## 💼 Job Market Preparation
+## Job Market Preparation
 
-### 📝 Resume Building
+### Resume Building
 
 **Essential Sections:**
 1. **Summary:** Brief overview highlighting Python expertise
@@ -146,13 +146,13 @@ Ready for mid-level positions with specialized expertise in chosen track.
 5. **Education:** Degree, certifications, online courses
 
 **Project Portfolio Must-Haves:**
-- ✅ Well-documented GitHub repositories
-- ✅ README with setup instructions
-- ✅ Live demos (deployed applications)
-- ✅ Clean, tested code
-- ✅ CI/CD badges showing passing tests
+- Well-documented GitHub repositories
+- README with setup instructions
+- Live demos (deployed applications)
+- Clean, tested code
+- CI/CD badges showing passing tests
 
-### 🎤 Interview Preparation
+### Interview Preparation
 
 **Technical Interview Topics:**
 
@@ -188,26 +188,6 @@ Ready for mid-level positions with specialized expertise in chosen track.
 - CodeSignal
 - Pramp (mock interviews)
 - interviewing.io
-
-### 💰 Salary Expectations (2026 US Market)
-
-**Entry Level (0-2 years):**
-- Junior Python Developer: $60,000 - $85,000
-- Junior Data Analyst: $55,000 - $75,000
-- Junior DevOps: $65,000 - $90,000
-
-**Mid Level (2-5 years):**
-- Python Developer: $85,000 - $130,000
-- Data Scientist: $95,000 - $140,000
-- DevOps Engineer: $95,000 - $145,000
-- ML Engineer: $100,000 - $150,000
-
-**Senior Level (5+ years):**
-- Senior Python Developer: $130,000 - $180,000
-- Senior Data Scientist: $140,000 - $200,000
-- Staff/Principal Engineer: $180,000 - $250,000+
-
-*Note: Salaries vary by location, company size, and specialization. FAANG and top tech companies pay significantly higher.*
 
 ---
 
