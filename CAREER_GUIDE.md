@@ -309,7 +309,7 @@ Track your progress with these milestones:
 4. **Network > Solo:** Engage with the community, help others
 5. **Patience > Rush:** Career growth takes time, enjoy the journey
 
-**You've got this! **
+** You've got this! **
 
 ---
 re:
@@ -321,4 +321,3 @@ README.md
 Open diff
 
 *Last updated: January 2026*
-*This guide is maintained by the Python learning community*
